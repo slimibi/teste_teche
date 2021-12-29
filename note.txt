@@ -1,0 +1,2 @@
+Lundi : 17h - 22h tentative de travailler sur unity debian peu fructueuse j'ai passé beacoup de temps a resoudre plein de petit probleme, j'ai surtout pu me documenter pour la suite.
+Mardi : 15h - 22h je suis passé sur windows beaucoup moins de probleme j'ai pu ajouter les bouttons, le dropdown button, j'ai un swipe partiellement fonctionelle, et j'ai renconter beaucoup de probleme le faite de charger une image via URL.
